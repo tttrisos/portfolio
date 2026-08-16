@@ -1,6 +1,8 @@
 # Portfólio - Thiago Santana Gomes
+# 11231101489
+# Sistemas de Informação
 
-Portfólio pessoal desenvolvido para atividade acadêmica utilizando HTML e CSS.
+Portfólio pessoal desenvolvido para atividade UMC utilizando HTML e CSS.
 
 ## Estrutura
 
